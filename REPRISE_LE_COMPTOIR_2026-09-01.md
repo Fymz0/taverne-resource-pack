@@ -53,6 +53,10 @@ Joueurs ajoutés et vérifiés :
 - `Melt1s`
 - `FuraxJumper`
 - `Shadow_Zz`
+- `Kargar`
+- `69momo69`
+
+La whitelist contient désormais `30` joueurs. Une confirmation avec l’emoji ✅ a été publiée dans le salon Discord `🏳️┃whitelist`.
 
 Aucune permission opérateur n’a été modifiée.
 
