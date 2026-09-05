@@ -4,8 +4,9 @@ Dépôt des ressources officielles du serveur Minecraft 26.2 et de son espace Di
 
 ## Contenu
 
-- `Taverne_Ranks_MCModels_32_Badges_v2.zip` : pack actif de grades et badges. Les surcharges des titres de conteneurs ont été retirées afin de laisser fonctionner les guides de Redstone Tweaks dans l’alambic, les coffres et les autres conteneurs.
-- `Taverne_Ranks_MCModels_32_Badges_v1.zip` : ancienne version conservée pour retour arrière ; elle masque les guides de conteneurs de packs clients.
+- `Taverne_Ranks_MCModels_32_Badges_v3.zip` : pack actif de grades et badges. Il intègre les guides d’interface Redstone Tweaks 2.5.5 avec des caractères d’espacement remappés afin d’éviter toute collision avec les badges de grades.
+- `Taverne_Ranks_MCModels_32_Badges_v2.zip` : version intermédiaire qui réactive les guides clients, mais provoque une collision visuelle entre les caractères d’espacement de Redstone Tweaks et certains badges.
+- `Taverne_Ranks_MCModels_32_Badges_v1.zip` : ancienne version qui masque les guides de conteneurs de packs clients.
 - `deploy-transfer/discord-mcp-v1.5.0.tar.xz.b64` : dernière archive du plugin d’administration Discord ; elle ajoute l’outil sécurisé `discord_add_reaction` et la lecture des réactions.
 - `deploy-transfer/discord-mcp-v1.4.0.tar.xz.b64` : archive précédente, conservée pour le retour arrière.
 - `branding/logo-principal.png` : logo principal haute définition du Comptoir.
@@ -18,13 +19,15 @@ Le logo adopte un médaillon de taverne avec le monogramme `LC` : pierre claire 
 
 ## Déploiement du pack
 
-La version 2 réactive les guides de Redstone Tweaks sans modifier les glyphes de grades.
+La version 3 conserve les véritables glyphes de grades sur `U+F801` à `U+F820` et remappe les caractères d’espacement des interfaces sur `U+E9xx`. Les recettes de l’alambic et les tableaux des conteneurs restent visibles sans afficher de badges parasites.
 
-SHA-1 de `Taverne_Ranks_MCModels_32_Badges_v2.zip` :
+SHA-1 de `Taverne_Ranks_MCModels_32_Badges_v3.zip` :
 
 ```text
-7d03347c479fe7dafa91735367b6bc99746df805
+a4340398d3cee51396b5e8c2149cf72ac49081cd
 ```
+
+Les éléments d’interface intégrés proviennent de Redstone Tweaks 2.5.5 par RexxStone, sous licence CC BY-NC-SA 4.0. L’attribution est également incluse dans l’archive.
 
 L’archive `1.5.0` possède l’empreinte SHA-256 suivante avant encodage base64 :
 
