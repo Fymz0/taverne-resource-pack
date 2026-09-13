@@ -1,0 +1,29 @@
+{
+  "bytes": 131827,
+  "checks": [
+    "all OPAC keys present",
+    "all format placeholders preserved",
+    "no default tooltip sentinel",
+    "all JSON valid",
+    "ZIP CRC valid",
+    "all unrelated resources byte-identical",
+    "dark green wilderness preserved",
+    "MC26_2_PACK_METADATA_OK [88.0, 88.*]",
+    "MC26_2_LANGUAGE_FORMAT_OK 615 entries"
+  ],
+  "filename": "Taverne_Ranks_MCModels_32_Badges_v7_OPAC_FR.zip",
+  "limitation": "OPAC passes custom group IDs and profile IDs as literal strings; a resource pack cannot translate those names. Command syntax and IDs are preserved.",
+  "minecraft": "26.2",
+  "opac": "0.31.6",
+  "opac_source_sha256": "31897294699545a630b42c5481a67bda9072f57c1a785971a9b915f26d973ced",
+  "original_pack_sha1": "49763d6b06fbbd1d5e23f80604c3ece3ef3acea1",
+  "output_keys": 615,
+  "preserved_original_entries": 82,
+  "resource_format": 88,
+  "sha1": "b4c06262c266e7e6624091e19f110d1a497acba9",
+  "sha256": "2c38d489cc87f3e25d7e6121600c1b1d63025f6143b480184d141d584e125d78",
+  "translated_tooltips": 93,
+  "translated_upstream_keys": 614,
+  "upstream_keys": 614,
+  "visual_test_in_game": false
+}
