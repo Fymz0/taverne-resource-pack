@@ -4,6 +4,8 @@ Dépôt des ressources officielles du serveur Minecraft 26.2 et de son espace Di
 
 ## Contenu
 
+- `Taverne_Ranks_MCModels_32_Badges_v8_OPAC_BACAP_FR.zip` : pack complet v7 enrichi de la traduction BACAP 1.21 pour Minecraft 26.2. [Contrôles et crédits](bacap-fr-1.21/README.md).
+
 - `Taverne_Ranks_MCModels_32_Badges_v7_OPAC_FR.zip` : pack complet v6 enrichi de tous les textes traduisibles OPAC 0.31.6 (614 clés, 93 infobulles), prêt pour la distribution au prochain démarrage du serveur.
 - `Taverne_Ranks_MCModels_32_Badges_v6.zip` : version précédente, conservée pour le retour arrière.
 - `Taverne_Ranks_MCModels_32_Badges_v3.zip` : ancienne version de grades et badges. Il intègre les guides d’interface Redstone Tweaks 2.5.5 avec des caractères d’espacement remappés afin d’éviter toute collision avec les badges de grades.
@@ -51,3 +53,8 @@ Les identifiants transmis littéralement par OPAC (par exemple `main`, `base`, `
 [Notice](opac-fr-0.31.6/README.md), [traduction](opac-fr-0.31.6/fr_fr.json), [contrôles](opac-fr-0.31.6/validation.json). Chargement des métadonnées et des 615 entrées (614 clés OPAC + alias historique Wilderness) validé avec les classes Minecraft 26.2. Rendu visuel en jeu à confirmer.
 
 Reconstruction : Python 3, depuis `opac-fr-0.31.6`, exécuter `python3 translate.py`. Le script lit le pack v6 à la racine du dépôt et les textes anglais archivés, vérifie la couverture et conserve les autres ressources. La sortie reconstruite se trouve dans ce sous-dossier.
+
+
+## BACAP — 14 septembre 2026
+
+Pack v8 : **3 616 entrées BACAP**, cinq lacunes corrigées, JSON normalisé. Grades, badges et traduction OPAC conservés. **333 267 octets**, SHA-1 `c2520ca7994cd30be1be83ca50b0f3f77f5b7d6f`. Activation et rendu en jeu à confirmer après distribution du nouveau pack. [Documentation de préparation](bacap-fr-1.21/README.md).

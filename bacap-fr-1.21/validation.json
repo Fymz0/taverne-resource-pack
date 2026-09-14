@@ -1,0 +1,39 @@
+{
+  "filename": "Taverne_Ranks_MCModels_32_Badges_v8_OPAC_BACAP_FR.zip",
+  "bytes": 333267,
+  "sha1": "c2520ca7994cd30be1be83ca50b0f3f77f5b7d6f",
+  "sha256": "89dee901c899be9f7f0fd5f115e3d58541fb4f6d6f3a6f331a711f9f60e525ac",
+  "source_sha256": "63b82a4251cac526f9677480f3ba14a1f93fab89206c29004fe63adfb44ca864",
+  "v7_sha256": "2c38d489cc87f3e25d7e6121600c1b1d63025f6143b480184d141d584e125d78",
+  "french_entries_added_per_language": 3616,
+  "template_keys_covered": 3614,
+  "missing_template_keys": [],
+  "empty_translations": [],
+  "format_parameters_preserved": true,
+  "duplicate_source_keys_normalized": {
+    "Reach 1000 experience levels": 2,
+    "Super Challenges": 2,
+    "Stink Bomb": 2,
+    "Advancement Scoreboard Display Settings": 2,
+    "Discover every cave biome": 2,
+    "Thank you for your patience and understanding.": 2
+  },
+  "source_missing_keys_completed": [
+    "Ahoy!",
+    "For example, if Alex and Steve are on Blue team and Steve gets 'Monster Hunter', Steve will have this score increase by 1, but when Alex gets it they won't. If Bob is on Red team and gets 'Monster Hunter' after Steve did, they will have this score increase by 1",
+    "Item Rewards:",
+    "Potions Milestone"
+  ],
+  "source_empty_keys_completed": [
+    "The Stink Bomb"
+  ],
+  "old_entries_preserved_byte_for_byte": 83,
+  "existing_minecraft_translations_preserved": true,
+  "opac_language_files_unchanged": true,
+  "json_strict_valid": true,
+  "zip_crc_valid": true,
+  "minecraft_resource_format": 88,
+  "runtime_load_verified": false,
+  "visual_verified": false,
+  "notes": "Coverage checked against supplied BACAP 1.21 translation template; game references and rendered text not yet verified."
+}
