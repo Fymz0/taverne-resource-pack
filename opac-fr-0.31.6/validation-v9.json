@@ -1,0 +1,32 @@
+{
+  "base_sha1": "c2520ca7994cd30be1be83ca50b0f3f77f5b7d6f",
+  "bytes": 333451,
+  "changed_entries": [
+    "assets/openpartiesandclaims/lang/en_us.json",
+    "assets/openpartiesandclaims/lang/fr_fr.json"
+  ],
+  "checks": [
+    "base checksum",
+    "ZIP CRC",
+    "all JSON valid",
+    "only two labels and their inheritance explanations changed",
+    "all other resources byte-identical"
+  ],
+  "client_visual_validation": "pending",
+  "filename": "Taverne_Ranks_MCModels_32_Badges_v9_OPAC_BACAP_FR.zip",
+  "labels": {
+    "gui.xaero_pac_config_option_sub_inherited": {
+      "after": "Par défaut",
+      "before": "Hérité"
+    },
+    "gui.xaero_pac_ui_my_player_config": {
+      "after": "Mes claims",
+      "before": "Mes réglages"
+    }
+  },
+  "sha1": "cabf64a53afc9652a8c3df51405d4c42b1409650",
+  "sha256": "9a2726c916374653e7e90698cb0d3f14fbdc3858bccc712418e84d9968b6bb93",
+  "tooltip_explanation": "Par défaut : reprend le réglage du profil parent (par exemple, main pour base).",
+  "unchanged_entries": 85,
+  "updated_tooltips": 93
+}
