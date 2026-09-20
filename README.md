@@ -13,8 +13,6 @@ Dépôt des ressources officielles du serveur Minecraft 26.2 et de son espace Di
 - `Taverne_Ranks_MCModels_32_Badges_v3.zip` : ancienne version de grades et badges. Il intègre les guides d’interface Redstone Tweaks 2.5.5 avec des caractères d’espacement remappés afin d’éviter toute collision avec les badges de grades.
 - `Taverne_Ranks_MCModels_32_Badges_v2.zip` : version intermédiaire qui réactive les guides clients, mais provoque une collision visuelle entre les caractères d’espacement de Redstone Tweaks et certains badges.
 - `Taverne_Ranks_MCModels_32_Badges_v1.zip` : ancienne version qui masque les guides de conteneurs de packs clients.
-- `deploy-transfer/discord-mcp-v1.5.0.tar.xz.b64` : dernière archive du plugin d’administration Discord ; elle ajoute l’outil sécurisé `discord_add_reaction` et la lecture des réactions.
-- `deploy-transfer/discord-mcp-v1.4.0.tar.xz.b64` : archive précédente, conservée pour le retour arrière.
 - `branding/logo-principal.png` : logo principal haute définition du Comptoir.
 - `branding/discord-icon.png` : variante 512 × 512 utilisée pour le serveur et le bot Discord.
 - `branding/minecraft-icon.png` : variante simplifiée 64 × 64, optimisée pour la liste des serveurs Minecraft.
