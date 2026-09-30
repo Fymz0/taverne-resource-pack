@@ -4,6 +4,8 @@ Dépôt des ressources officielles du serveur Minecraft 26.2 et de son espace Di
 
 ## Contenu
 
+- `Taverne_Ranks_MCModels_32_Badges_v10_OPAC_BACAP_FR.zip` : libellé de création de sous-profil raccourci en **Nouveau**, pour tenir devant le champ de saisie OPAC.
+
 - `Taverne_Ranks_MCModels_32_Badges_v9_OPAC_BACAP_FR.zip` : libellés OPAC simplifiés : **Mes claims** et **Par défaut**, avec explication du profil parent dans les infobulles.
 
 - `Taverne_Ranks_MCModels_32_Badges_v8_OPAC_BACAP_FR.zip` : pack complet v7 enrichi de la traduction BACAP 1.21 pour Minecraft 26.2. [Contrôles et crédits](bacap-fr-1.21/README.md).
@@ -69,3 +71,14 @@ Seuls les deux fichiers de langue OPAC changent : deux libellés et les explicat
 **333451 octets**, SHA-1 `cabf64a53afc9652a8c3df51405d4c42b1409650`, SHA-256 `9a2726c916374653e7e90698cb0d3f14fbdc3858bccc712418e84d9968b6bb93`. Rendu en jeu à confirmer après distribution.
 
 Reconstruction depuis la racine : `python3 opac-fr-0.31.6/clarify_labels_v9.py`. [Contrôles](opac-fr-0.31.6/validation-v9.json). Les fichiers historiques `translate.py` et `fr_fr.json` du sous-dossier restent les sources du v7 ; le script v9 applique les changements au pack v8 publié.
+
+
+## Libellé de création OPAC — 30 septembre 2026
+
+Le pack v10 remplace uniquement **Nouveau profil** par **Nouveau** dans les deux fichiers de langue OPAC. Le mod réserve 44 pixels au libellé ; sept lettres ASCII occupent au plus 42 pixels avec la police vanilla. Le champ, les boutons et l’infobulle restent inchangés.
+
+Les 85 autres entrées du pack v9 sont identiques à l’octet près. JSON et CRC ZIP vérifiés ; rendu client à confirmer après distribution par le serveur.
+
+**333447 octets**, SHA-1 `20b7f9ac0184f729574e3ab6b533d40621d3e385`, SHA-256 `5d1317ab626f6bcde2788cc5d6713e62d30b9ea9cfe9a862269dea4f446f1786`.
+
+Reconstruction : `python3 opac-fr-0.31.6/shorten_create_label_v10.py`. [Contrôles](opac-fr-0.31.6/validation-v10.json).

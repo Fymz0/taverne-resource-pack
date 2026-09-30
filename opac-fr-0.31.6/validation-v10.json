@@ -1,0 +1,33 @@
+{
+  "filename": "Taverne_Ranks_MCModels_32_Badges_v10_OPAC_BACAP_FR.zip",
+  "base_sha1": "cabf64a53afc9652a8c3df51405d4c42b1409650",
+  "sha1": "20b7f9ac0184f729574e3ab6b533d40621d3e385",
+  "sha256": "5d1317ab626f6bcde2788cc5d6713e62d30b9ea9cfe9a862269dea4f446f1786",
+  "bytes": 333447,
+  "label": {
+    "key": "gui.xaero_pac_ui_sub_config_create_widget",
+    "before": "Nouveau profil",
+    "after": "Nouveau"
+  },
+  "layout": {
+    "available_gui_pixels": 44,
+    "new_label_width_upper_bound": 42,
+    "minimum_gap_gui_pixels": 2,
+    "font_assumption": "vanilla ASCII advance at most 6 pixels; custom wider fonts not verified"
+  },
+  "changed_entries": [
+    "assets/openpartiesandclaims/lang/en_us.json",
+    "assets/openpartiesandclaims/lang/fr_fr.json"
+  ],
+  "unchanged_entries": 85,
+  "changed_language_keys_per_file": 1,
+  "checks": [
+    "base checksum",
+    "ZIP CRC",
+    "all JSON valid",
+    "only creation label changed in each OPAC language file",
+    "all other resources byte-identical",
+    "label fits OPAC geometry with vanilla ASCII font"
+  ],
+  "client_visual_validation": "pending after server distributes v10"
+}
