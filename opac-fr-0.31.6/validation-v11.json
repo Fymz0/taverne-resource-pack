@@ -1,0 +1,35 @@
+{
+  "filename": "Taverne_Ranks_MCModels_32_Badges_v11_OPAC_BACAP_FR.zip",
+  "base_sha1": "20b7f9ac0184f729574e3ab6b533d40621d3e385",
+  "sha1": "58203bd8bfcba390b1d2769287df482ee0d3f0d3",
+  "sha256": "f78c88d934d33a29502c412898ffe3cb235bcecd838c40d0d5d9eae59161c6a3",
+  "bytes": 333469,
+  "labels": {
+    "gui.xaero_pac_ui_sub_config_create_widget": {
+      "before": "Nouveau",
+      "after": "Profil +"
+    },
+    "gui.xaero_pac_ui_sub_config_create_widget_tooltip": {
+      "before": "Saisis l'identifiant du sous-profil à créer.\n%1$s",
+      "after": "Créer un nouveau sous-profil. Saisis son identifiant dans la case.\n%1$s"
+    }
+  },
+  "layout": {
+    "available_gui_pixels": 44,
+    "label_width_gui_pixels": 38
+  },
+  "changed_entries": [
+    "assets/openpartiesandclaims/lang/en_us.json",
+    "assets/openpartiesandclaims/lang/fr_fr.json"
+  ],
+  "unchanged_entries": 85,
+  "changed_language_keys_per_file": 2,
+  "checks": [
+    "base checksum",
+    "ZIP CRC",
+    "all JSON valid",
+    "the one tooltip placeholder is retained",
+    "all non-OPAC-language resources byte-identical"
+  ],
+  "client_visual_validation": "pending after server distributes v11"
+}

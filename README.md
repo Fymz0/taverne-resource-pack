@@ -4,6 +4,8 @@ Dépôt des ressources officielles du serveur Minecraft 26.2 et de son espace Di
 
 ## Contenu
 
+- `Taverne_Ranks_MCModels_32_Badges_v11_OPAC_BACAP_FR.zip` : **Profil +** dans la case de création OPAC, avec une explication au survol et les règles de nommage conservées.
+
 - `Taverne_Ranks_MCModels_32_Badges_v10_OPAC_BACAP_FR.zip` : libellé de création de sous-profil raccourci en **Nouveau**, pour tenir devant le champ de saisie OPAC.
 
 - `Taverne_Ranks_MCModels_32_Badges_v9_OPAC_BACAP_FR.zip` : libellés OPAC simplifiés : **Mes claims** et **Par défaut**, avec explication du profil parent dans les infobulles.
@@ -82,3 +84,12 @@ Les 85 autres entrées du pack v9 sont identiques à l’octet près. JSON et CR
 **333447 octets**, SHA-1 `20b7f9ac0184f729574e3ab6b533d40621d3e385`, SHA-256 `5d1317ab626f6bcde2788cc5d6713e62d30b9ea9cfe9a862269dea4f446f1786`.
 
 Reconstruction : `python3 opac-fr-0.31.6/shorten_create_label_v10.py`. [Contrôles](opac-fr-0.31.6/validation-v10.json).
+
+
+## Profil et aide au survol OPAC — 1er octobre 2026
+
+Le pack v11 remplace « Nouveau » par **« Profil + »** devant la case de saisie. En survolant cette ligne ou la case, l’infobulle précise : « Créer un nouveau sous-profil. Saisis son identifiant dans la case. » Les règles déjà affichées ensuite, dont l’identifiant unique et la limite de 16 caractères, restent intactes.
+
+Seules deux clés dans chacun des deux fichiers de langue OPAC sont modifiées ; les 85 autres entrées du v10 restent identiques à l’octet près. Le libellé occupe environ 38 des 44 pixels disponibles avec la police vanilla.
+
+**333469 octets**, SHA-1 `58203bd8bfcba390b1d2769287df482ee0d3f0d3`, SHA-256 `f78c88d934d33a29502c412898ffe3cb235bcecd838c40d0d5d9eae59161c6a3`. Reconstruction : `python3 opac-fr-0.31.6/profile_plus_tooltip_v11.py`. [Contrôles](opac-fr-0.31.6/validation-v11.json). Rendu en jeu à confirmer après distribution.
