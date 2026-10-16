@@ -1,0 +1,23 @@
+{
+  "faces": 48,
+  "catalog": 198,
+  "old_icons_preserved": 150,
+  "old_pack_entries_preserved_except": [
+    "assets/minecraft/font/default.json",
+    "pack.mcmeta"
+  ],
+  "checks": 412,
+  "artwork": "Twemoji 14.0.2 / CC BY 4.0",
+  "files": {
+    "lecomptoir-emoji-picker-1.1.0+mc26.2.jar": {
+      "bytes": 124809,
+      "sha1": "c3458f75f3c5e38e5debd95aa36cf9b91c74049a",
+      "sha256": "91ab4e2ee91a0120ff6195438eed9fabaa6a1ceeb68ac7ccbc675e001d34d278"
+    },
+    "Le_Comptoir_v14_Expressions.zip": {
+      "bytes": 605950,
+      "sha1": "7f4eb296d0b7a3a5a6638093a4e3c58c7c9c0d56",
+      "sha256": "cfbe1bfa98a9d4cf97041a3047d778b3202de25db90dffa674c7a5cbf9582336"
+    }
+  }
+}

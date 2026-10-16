@@ -1,0 +1,434 @@
+[
+  {
+    "id": "faces/grinning-face",
+    "glyph": "😀",
+    "name": "Grand sourire",
+    "codepoint": "1f600",
+    "emojipedia": "https://emojipedia.org/grinning-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f600.png",
+    "source_sha256": "9cfc5ad34e89b6eebddcd5ec715c224a86c99ea5b9fad999407dee7e32f681b6"
+  },
+  {
+    "id": "faces/grinning-face-with-big-eyes",
+    "glyph": "😃",
+    "name": "Sourire joyeux",
+    "codepoint": "1f603",
+    "emojipedia": "https://emojipedia.org/grinning-face-with-big-eyes",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f603.png",
+    "source_sha256": "771063f3b2b4950334f4d187069c87041036842149b3e4268221db325b6bde0e"
+  },
+  {
+    "id": "faces/grinning-face-with-smiling-eyes",
+    "glyph": "😄",
+    "name": "Sourire radieux",
+    "codepoint": "1f604",
+    "emojipedia": "https://emojipedia.org/grinning-face-with-smiling-eyes",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f604.png",
+    "source_sha256": "ae89e05450587e8f1f4786c0d266cf94ef2b306782fb6f9c30e43c0023ed148b"
+  },
+  {
+    "id": "faces/beaming-face-with-smiling-eyes",
+    "glyph": "😁",
+    "name": "Sourire de toutes ses dents",
+    "codepoint": "1f601",
+    "emojipedia": "https://emojipedia.org/beaming-face-with-smiling-eyes",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f601.png",
+    "source_sha256": "ed2d1ae8dcdaf6a12e9af7d7bced25db2c3e8f38e624f930d13ff697e3285e7b"
+  },
+  {
+    "id": "faces/grinning-squinting-face",
+    "glyph": "😆",
+    "name": "Rire les yeux fermés",
+    "codepoint": "1f606",
+    "emojipedia": "https://emojipedia.org/grinning-squinting-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f606.png",
+    "source_sha256": "0d46390df7858374bd26a539915193d11a6bfb5fef11ff8e7572a1d32851b126"
+  },
+  {
+    "id": "faces/grinning-face-with-sweat",
+    "glyph": "😅",
+    "name": "Sourire gêné",
+    "codepoint": "1f605",
+    "emojipedia": "https://emojipedia.org/grinning-face-with-sweat",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f605.png",
+    "source_sha256": "723bceeff120314bc0b84d09adc1fa250a25361d04ff700964fdee58819b20cd"
+  },
+  {
+    "id": "faces/face-with-tears-of-joy",
+    "glyph": "😂",
+    "name": "Larmes de joie",
+    "codepoint": "1f602",
+    "emojipedia": "https://emojipedia.org/face-with-tears-of-joy",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f602.png",
+    "source_sha256": "c252a58367211c11d839155e50dc5e98551826c64b8d2e8d6267124c054ceae0"
+  },
+  {
+    "id": "faces/rolling-on-the-floor-laughing",
+    "glyph": "🤣",
+    "name": "Mort de rire",
+    "codepoint": "1f923",
+    "emojipedia": "https://emojipedia.org/rolling-on-the-floor-laughing",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f923.png",
+    "source_sha256": "4a371ef1123fee52185f3098d3d3b65dc7f695fdd574ea977ea2afedff963ad5"
+  },
+  {
+    "id": "faces/slightly-smiling-face",
+    "glyph": "🙂",
+    "name": "Petit sourire",
+    "codepoint": "1f642",
+    "emojipedia": "https://emojipedia.org/slightly-smiling-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f642.png",
+    "source_sha256": "c7a2c052f383509ac9ec9da7f34cccc4c1d35040799426588c54a0d83cd9628f"
+  },
+  {
+    "id": "faces/upside-down-face",
+    "glyph": "🙃",
+    "name": "Tête à l’envers",
+    "codepoint": "1f643",
+    "emojipedia": "https://emojipedia.org/upside-down-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f643.png",
+    "source_sha256": "76913e147f4c419325959f4bdf4e91466f420361dcc93ebd7895ef68dc1540a9"
+  },
+  {
+    "id": "faces/winking-face",
+    "glyph": "😉",
+    "name": "Clin d’œil",
+    "codepoint": "1f609",
+    "emojipedia": "https://emojipedia.org/winking-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f609.png",
+    "source_sha256": "f6b86554472159b74d0ab91b2cb3cd75cf361ccf96a141a4ebd3363c38e7f8eb"
+  },
+  {
+    "id": "faces/smiling-face-with-smiling-eyes",
+    "glyph": "😊",
+    "name": "Sourire timide",
+    "codepoint": "1f60a",
+    "emojipedia": "https://emojipedia.org/smiling-face-with-smiling-eyes",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f60a.png",
+    "source_sha256": "5dc76062acc5a80d95fdd823db908640d52dac05ad1a4899ab9e723bfa0bbbfb"
+  },
+  {
+    "id": "faces/smiling-face-with-halo",
+    "glyph": "😇",
+    "name": "Innocent",
+    "codepoint": "1f607",
+    "emojipedia": "https://emojipedia.org/smiling-face-with-halo",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f607.png",
+    "source_sha256": "872aa7cb9054653cf230e04ce27232d9322b3f93c911e7ee8e7fe4d19bce50e6"
+  },
+  {
+    "id": "faces/smiling-face-with-hearts",
+    "glyph": "🥰",
+    "name": "Visage avec des cœurs",
+    "codepoint": "1f970",
+    "emojipedia": "https://emojipedia.org/smiling-face-with-hearts",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f970.png",
+    "source_sha256": "d1b268344fa3a7ee27d6efbbcabd6d4f5214294120de1c2c85b6b0979e22e9ab"
+  },
+  {
+    "id": "faces/smiling-face-with-heart-eyes",
+    "glyph": "😍",
+    "name": "Yeux en cœur",
+    "codepoint": "1f60d",
+    "emojipedia": "https://emojipedia.org/smiling-face-with-heart-eyes",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f60d.png",
+    "source_sha256": "ed402544b4e4f781f41f314388826889618fdb9972b28212dcdf91c76673ac0c"
+  },
+  {
+    "id": "faces/star-struck",
+    "glyph": "🤩",
+    "name": "Émerveillé",
+    "codepoint": "1f929",
+    "emojipedia": "https://emojipedia.org/star-struck",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f929.png",
+    "source_sha256": "494a5d33fa83756c26384a2e7a90142bde9d8d0b4f81c7f2721b9527cf5ce684"
+  },
+  {
+    "id": "faces/face-blowing-a-kiss",
+    "glyph": "😘",
+    "name": "Bisou",
+    "codepoint": "1f618",
+    "emojipedia": "https://emojipedia.org/face-blowing-a-kiss",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f618.png",
+    "source_sha256": "cfed922412955d0a799efd8a55c27bd26423db41334d429ce3e037d726545a22"
+  },
+  {
+    "id": "faces/face-savoring-food",
+    "glyph": "😋",
+    "name": "Miam",
+    "codepoint": "1f60b",
+    "emojipedia": "https://emojipedia.org/face-savoring-food",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f60b.png",
+    "source_sha256": "d8cb622d4c4edfeebcfed51dfc1dd883c5e5ec35e93292f976b6575ee31c8f62"
+  },
+  {
+    "id": "faces/face-with-tongue",
+    "glyph": "😛",
+    "name": "Tire la langue",
+    "codepoint": "1f61b",
+    "emojipedia": "https://emojipedia.org/face-with-tongue",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f61b.png",
+    "source_sha256": "3163a5e255227b243910497d540132fb6658b673e5dce9a6039c26309d51eb0f"
+  },
+  {
+    "id": "faces/winking-face-with-tongue",
+    "glyph": "😜",
+    "name": "Clin d’œil et langue",
+    "codepoint": "1f61c",
+    "emojipedia": "https://emojipedia.org/winking-face-with-tongue",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f61c.png",
+    "source_sha256": "6a693010b77b3ab855dfa10f04416f7bd49775f13cb069c88c7c460e060e69d2"
+  },
+  {
+    "id": "faces/zany-face",
+    "glyph": "🤪",
+    "name": "Déjanté",
+    "codepoint": "1f92a",
+    "emojipedia": "https://emojipedia.org/zany-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f92a.png",
+    "source_sha256": "d62c07b3176f768fde3a6b181fef0780a20ca6cc54d462f0956528056fd4ac7b"
+  },
+  {
+    "id": "faces/squinting-face-with-tongue",
+    "glyph": "😝",
+    "name": "Taquin",
+    "codepoint": "1f61d",
+    "emojipedia": "https://emojipedia.org/squinting-face-with-tongue",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f61d.png",
+    "source_sha256": "878e4748e759a36cd01ac8f1fd47b94d3933eae7593c7a8bbad70f2ec2375a2e"
+  },
+  {
+    "id": "faces/smiling-face-with-open-hands",
+    "glyph": "🤗",
+    "name": "Câlin",
+    "codepoint": "1f917",
+    "emojipedia": "https://emojipedia.org/smiling-face-with-open-hands",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f917.png",
+    "source_sha256": "75051001faed2bddddb6c9e67ee6b62f4f6e72395d2effcaa017bd4e6970b29f"
+  },
+  {
+    "id": "faces/face-with-hand-over-mouth",
+    "glyph": "🤭",
+    "name": "Main sur la bouche",
+    "codepoint": "1f92d",
+    "emojipedia": "https://emojipedia.org/face-with-hand-over-mouth",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f92d.png",
+    "source_sha256": "30fbcc1105112de4535af5034c72d2bec5c273d909209959b96a4d3bda3551c2"
+  },
+  {
+    "id": "faces/shushing-face",
+    "glyph": "🤫",
+    "name": "Chut",
+    "codepoint": "1f92b",
+    "emojipedia": "https://emojipedia.org/shushing-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f92b.png",
+    "source_sha256": "fc824cf580decba036c7cdfb9c93190e8a18554f3e825479783da92e294217af"
+  },
+  {
+    "id": "faces/thinking-face",
+    "glyph": "🤔",
+    "name": "Réflexion",
+    "codepoint": "1f914",
+    "emojipedia": "https://emojipedia.org/thinking-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f914.png",
+    "source_sha256": "5116f7d07677f06785887c0af23c189b541a306d6b792d605ffaf3ed9f0e912d"
+  },
+  {
+    "id": "faces/zipper-mouth-face",
+    "glyph": "🤐",
+    "name": "Bouche fermée",
+    "codepoint": "1f910",
+    "emojipedia": "https://emojipedia.org/zipper-mouth-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f910.png",
+    "source_sha256": "4e228f9b42c1add6661a0c5f28766fd11462c0d14b94cfb0297738d0253a76aa"
+  },
+  {
+    "id": "faces/face-with-raised-eyebrow",
+    "glyph": "🤨",
+    "name": "Sceptique",
+    "codepoint": "1f928",
+    "emojipedia": "https://emojipedia.org/face-with-raised-eyebrow",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f928.png",
+    "source_sha256": "e9e331850ad2c294d98a37ab65d181f6c4c63d10eaf289ad098dd801f1c0c76f"
+  },
+  {
+    "id": "faces/neutral-face",
+    "glyph": "😐",
+    "name": "Neutre",
+    "codepoint": "1f610",
+    "emojipedia": "https://emojipedia.org/neutral-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f610.png",
+    "source_sha256": "fa129602e5025a314b309f2dff231dfd8462624b6e398852bc3992a5c2b46585"
+  },
+  {
+    "id": "faces/expressionless-face",
+    "glyph": "😑",
+    "name": "Sans expression",
+    "codepoint": "1f611",
+    "emojipedia": "https://emojipedia.org/expressionless-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f611.png",
+    "source_sha256": "42b8a5b58df75bc1294b95fba7fd4ee7972145086c03875f780350e26cb0a9c7"
+  },
+  {
+    "id": "faces/face-without-mouth",
+    "glyph": "😶",
+    "name": "Sans voix",
+    "codepoint": "1f636",
+    "emojipedia": "https://emojipedia.org/face-without-mouth",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f636.png",
+    "source_sha256": "e14f0ccf56e8c7c123e4da42b3578b18a4d03231de63c592a9a83d038465818e"
+  },
+  {
+    "id": "faces/smirking-face",
+    "glyph": "😏",
+    "name": "Sourire malin",
+    "codepoint": "1f60f",
+    "emojipedia": "https://emojipedia.org/smirking-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f60f.png",
+    "source_sha256": "47fea9c90bfea7bd4990f004d7018f5c304d7423559a5ac2001caab666252d66"
+  },
+  {
+    "id": "faces/unamused-face",
+    "glyph": "😒",
+    "name": "Blasé",
+    "codepoint": "1f612",
+    "emojipedia": "https://emojipedia.org/unamused-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f612.png",
+    "source_sha256": "064b384525610c8a83e33eaac8172dc9de44c67917e5447657127dd75134c5cc"
+  },
+  {
+    "id": "faces/face-with-rolling-eyes",
+    "glyph": "🙄",
+    "name": "Lève les yeux au ciel",
+    "codepoint": "1f644",
+    "emojipedia": "https://emojipedia.org/face-with-rolling-eyes",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f644.png",
+    "source_sha256": "8c5956f266757c1dff82ed1440caaf3c3896972f8983f1310fca911898225d3d"
+  },
+  {
+    "id": "faces/grimacing-face",
+    "glyph": "😬",
+    "name": "Grimace",
+    "codepoint": "1f62c",
+    "emojipedia": "https://emojipedia.org/grimacing-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f62c.png",
+    "source_sha256": "9aa4a3e9dfe5a3a01d1a0036a86749f887cd2b0f5dc7238b5cbefff180f13853"
+  },
+  {
+    "id": "faces/lying-face",
+    "glyph": "🤥",
+    "name": "Menteur",
+    "codepoint": "1f925",
+    "emojipedia": "https://emojipedia.org/lying-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f925.png",
+    "source_sha256": "5f1cd692990ea7f7cb56bb8df8388be24d9550e341d8ab3e9d77d2e908ff4cce"
+  },
+  {
+    "id": "faces/sleeping-face",
+    "glyph": "😴",
+    "name": "Endormi",
+    "codepoint": "1f634",
+    "emojipedia": "https://emojipedia.org/sleeping-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f634.png",
+    "source_sha256": "2aeea8badccceed72027d37081ac75d81ced2932c382ed89527d427585081df7"
+  },
+  {
+    "id": "faces/smiling-face-with-sunglasses",
+    "glyph": "😎",
+    "name": "Lunettes de soleil",
+    "codepoint": "1f60e",
+    "emojipedia": "https://emojipedia.org/smiling-face-with-sunglasses",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f60e.png",
+    "source_sha256": "0e96db4df869e8e4a38a76b7be66ebb1d80af768e193fcbb7e29abde3980af2a"
+  },
+  {
+    "id": "faces/nerd-face",
+    "glyph": "🤓",
+    "name": "Intello",
+    "codepoint": "1f913",
+    "emojipedia": "https://emojipedia.org/nerd-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f913.png",
+    "source_sha256": "bf5a4edd87080ae87fe86ed060de3597f7cb7380bab93896021c582f8838f482"
+  },
+  {
+    "id": "faces/partying-face",
+    "glyph": "🥳",
+    "name": "Fête",
+    "codepoint": "1f973",
+    "emojipedia": "https://emojipedia.org/partying-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f973.png",
+    "source_sha256": "71fd857dc56ed5075127c33ccdae59ad5d01f1fdb60c594d96bb84cab16c305c"
+  },
+  {
+    "id": "faces/face-with-open-mouth",
+    "glyph": "😮",
+    "name": "Surpris",
+    "codepoint": "1f62e",
+    "emojipedia": "https://emojipedia.org/face-with-open-mouth",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f62e.png",
+    "source_sha256": "0fc5cd0fa11b6a4acdc3a7bac6d3f6118169a00f26434a5143becef960b3010d"
+  },
+  {
+    "id": "faces/astonished-face",
+    "glyph": "😲",
+    "name": "Stupéfait",
+    "codepoint": "1f632",
+    "emojipedia": "https://emojipedia.org/astonished-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f632.png",
+    "source_sha256": "488c8e360097e4d5240e3cc712abb1e6108eabac2aa37cf261444cdd83c1970a"
+  },
+  {
+    "id": "faces/flushed-face",
+    "glyph": "😳",
+    "name": "Rougit",
+    "codepoint": "1f633",
+    "emojipedia": "https://emojipedia.org/flushed-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f633.png",
+    "source_sha256": "7356090df6d9c7a423495be295b2ceca90afeb0e6c2805e03dbd4b01d1753191"
+  },
+  {
+    "id": "faces/crying-face",
+    "glyph": "😢",
+    "name": "Triste",
+    "codepoint": "1f622",
+    "emojipedia": "https://emojipedia.org/crying-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f622.png",
+    "source_sha256": "077de4b040aec6cc02d33b34881425cb6576e677da9dbaa6010706d4010b6e65"
+  },
+  {
+    "id": "faces/loudly-crying-face",
+    "glyph": "😭",
+    "name": "Pleure à chaudes larmes",
+    "codepoint": "1f62d",
+    "emojipedia": "https://emojipedia.org/loudly-crying-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f62d.png",
+    "source_sha256": "c22c89c24607d04f39094af2216b611d1d033055b31afafbc6a185990982b844"
+  },
+  {
+    "id": "faces/enraged-face",
+    "glyph": "😡",
+    "name": "En colère",
+    "codepoint": "1f621",
+    "emojipedia": "https://emojipedia.org/enraged-face",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f621.png",
+    "source_sha256": "f65d755195cfb95f5c3e38a33d5ccd935236ff2869a720cdbcb8ac667c073e7e"
+  },
+  {
+    "id": "faces/face-screaming-in-fear",
+    "glyph": "😱",
+    "name": "Terrifié",
+    "codepoint": "1f631",
+    "emojipedia": "https://emojipedia.org/face-screaming-in-fear",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f631.png",
+    "source_sha256": "42e6b438eba01cf441e8e1bdde37ddb2bd9278ac26526acbb930c1557a75e0b7"
+  },
+  {
+    "id": "faces/exploding-head",
+    "glyph": "🤯",
+    "name": "Tête qui explose",
+    "codepoint": "1f92f",
+    "emojipedia": "https://emojipedia.org/exploding-head",
+    "source": "https://raw.githubusercontent.com/twitter/twemoji/v14.0.2/assets/72x72/1f92f.png",
+    "source_sha256": "5a0faea28d801cea8ed034ea8518b6e4fec78035a7158f3b012d47cae63286f8"
+  }
+]
