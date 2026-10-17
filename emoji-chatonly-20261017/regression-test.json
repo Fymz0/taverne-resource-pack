@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "original_v15_collisions_reproduced": 443,
+  "fixed_v16_collisions": 0,
+  "client_glyphs_audited": 1632,
+  "new_chat_glyphs": 3953,
+  "ordinary_unicode_overrides_added": 0,
+  "old_entries_byte_identical": 577,
+  "local_iconic_previews": 150,
+  "server_pack_required_for_button": false,
+  "pause_menu_injections": 0,
+  "actual_render": "pending real client"
+}

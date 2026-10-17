@@ -1,0 +1,43 @@
+{
+  "emojis": 3953,
+  "old_iconic": 150,
+  "total": 4103,
+  "categories": {
+    "smileys": 131,
+    "people": 1681,
+    "nature": 207,
+    "food": 131,
+    "activity": 831,
+    "travel": 172,
+    "objects": 266,
+    "symbols": 264,
+    "flags": 270,
+    "iconic": 150
+  },
+  "private_glyphs": 3953,
+  "glyph_range": [
+    "U+104000",
+    "U+104F70"
+  ],
+  "client_glyphs_audited": 1632,
+  "client_font_collisions": 0,
+  "bitmap_atlases": 16,
+  "resource_checks": 8227,
+  "twemoji": "17.0.3",
+  "emojibase": "17.0.0",
+  "data_sha256": "2d98e00803f7c777f9127002b59965151e4e0522767c899f7af897d8ca98454e",
+  "upstream_archive_sha256": "a0855654b633045ae2337537e77f1bb4361162f7fcd910e613eaab1d6d9c5fca",
+  "preserved_old_entries": 577,
+  "files": {
+    "lecomptoir-emoji-picker-1.2.1+mc26.2.jar": {
+      "bytes": 6403843,
+      "sha1": "e4956a29ecfa8e4b26a628675b3d9d53629db3d2",
+      "sha256": "97cacecfc32cbf912795875036d8607b09cf66b44001a4e72168a2d021680d08"
+    },
+    "Le_Comptoir_v16_Chat_Emojis.zip": {
+      "bytes": 6784048,
+      "sha1": "3b33bb903020d18f119573d96efbae01ab35a0a1",
+      "sha256": "e1739fb1409b79fe5d4e37b0d433736bd3c1998e29ba19a09180271057b64348"
+    }
+  }
+}
