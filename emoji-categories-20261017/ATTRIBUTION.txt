@@ -1,0 +1,7 @@
+Twemoji graphics © Twitter, Inc and other contributors, CC BY 4.0.
+https://github.com/jdecked/twemoji/tree/v17.0.3
+https://creativecommons.org/licenses/by/4.0/
+3953 images resized from 72×72 to 32×32 and arranged in 16 bitmap atlases.
+French emoji data: emojibase-data 17.0.0, Miles Johnson, MIT; Unicode/CLDR data under Unicode License V3.
+Categories referenced from https://emojipedia.org/ .
+Minecraft integration: Le Comptoir des Artisans.
