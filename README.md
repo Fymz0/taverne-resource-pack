@@ -2,6 +2,18 @@
 
 Dépôt des ressources officielles du serveur Minecraft 26.2 et de son espace Discord.
 
+## Player Armor Stand — 13 novembre 2026
+
+`Le_Comptoir_v18_Player_Armor_Stand.zip` ajoute **Player Armor Stand 1.4 par ShorkBee** au pack effectivement distribué par le serveur. Les 600 fichiers existants hors métadonnées restent identiques à l’octet près ; les 444 fichiers du pack d’origine hors métadonnées sont conservés sans modification. L’archive contient 1 046 fichiers, dont 430 fichiers JSON et modèles validés, avec contrôle CRC ZIP.
+
+Chaque joueur doit installer **[Entity Model Features (EMF)](https://modrinth.com/mod/entity-model-features)** et **[Entity Texture Features (ETF)](https://modrinth.com/mod/entitytexturefeatures)** dans son client Fabric. Un redémarrage complet du jeu charge ces mods. Ils ne sont pas des mods à installer sur le serveur dédié.
+
+Le serveur distribue les ressources automatiquement. Les variantes s’activent en renommant un porte-armure avec une étiquette, ou en le renommant à l’enclume avant de le placer : `Male1`, `Female1`, `Male Sit1`, `Female Sit1`, `Male Right1`, etc., avec les numéros de 1 à 50. Les noms sont ceux du pack original ; il ne télécharge pas automatiquement le skin de n’importe quel pseudo.
+
+Source : [Player Armor Stand, ShorkBee](https://modrinth.com/resourcepack/player-armor-stand), version `qheFIWLC`, identique à l’archive fournie par le propriétaire du serveur. SHA-1 source : `7e19ed33849c4b01b77fb29147dc086673e68000`. SHA-1 du pack combiné : `4de7593f1855647dc162d646982f5449bfe411ed` (7 665 451 octets).
+
+[Reconstruction](player-armor-stand-20261113/build_pack.py) · [Contrôles](player-armor-stand-20261113/validation.json).
+
 ## Contenu
 
 - `Taverne_Ranks_MCModels_32_Badges_v11_OPAC_BACAP_FR.zip` : **Profil +** dans la case de création OPAC, avec une explication au survol et les règles de nommage conservées.
