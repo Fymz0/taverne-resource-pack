@@ -1,0 +1,15 @@
+{
+  "minecraft": "26.3",
+  "opac": "0.33.0",
+  "source_keys": 703,
+  "translation_keys": 709,
+  "missing_keys": [],
+  "keys_added_vs_v18": 92,
+  "format_tokens_valid": true,
+  "zip_crc_valid": true,
+  "unchanged_other_entries": 1043,
+  "output": "Le_Comptoir_v19_OPAC_FR_26.3.zip",
+  "bytes": 7673511,
+  "sha1": "2a0fd61f8c5b7000bc7979eed800341d59b41c5c",
+  "sha256": "7ecb70cbc34ec2a62800b9a8cd572b1f6ba76787b11526bf09219c1af9bbb790"
+}

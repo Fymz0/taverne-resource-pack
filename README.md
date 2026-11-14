@@ -2,6 +2,14 @@
 
 Dépôt des ressources officielles du serveur Minecraft 26.2 et de son espace Discord.
 
+## Traduction OPAC 0.33.0 — 14 novembre 2026
+
+`Le_Comptoir_v19_OPAC_FR_26.3.zip` complète le pack v18 avec la traduction du menu de gestion OPAC 0.33.0, notamment les catégories et options ajoutées sur Minecraft 26.3. Les 703 clés de la version installée sont couvertes ; 92 clés absentes de v18 sont ajoutées. Les 1 043 autres entrées restent identiques. Les variables de format et le CRC ZIP ont été vérifiés.
+
+SHA-1 : `2a0fd61f8c5b7000bc7979eed800341d59b41c5c`. Taille : 7 673 511 octets. Le serveur doit pointer vers le ZIP à une révision immuable avec ce SHA-1. Le fichier anglais du pack reprend aussi la traduction française, comme dans les versions précédentes du pack serveur.
+
+[Reconstruction](opac-fr-0.33.0/build_pack.py) · [Contrôles](opac-fr-0.33.0/validation.json).
+
 ## Player Armor Stand — 13 novembre 2026
 
 `Le_Comptoir_v18_Player_Armor_Stand.zip` ajoute **Player Armor Stand 1.4 par ShorkBee** au pack effectivement distribué par le serveur. Les 600 fichiers existants hors métadonnées restent identiques à l’octet près ; les 444 fichiers du pack d’origine hors métadonnées sont conservés sans modification. L’archive contient 1 046 fichiers, dont 430 fichiers JSON et modèles validés, avec contrôle CRC ZIP.
